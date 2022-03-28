@@ -55,7 +55,7 @@
             >Local Gov</nuxt-link
           >
 
-          <nuxt-link to="/taxes" class="font-medium text-indigo-600 hover:text-indigo-500"
+          <nuxt-link to="/taxes" class="font-medium text-gray-500 hover:text-gray-900"
             >Taxes</nuxt-link
           >
         </div>
@@ -146,3 +146,8 @@
     </div>
   </div>
 </template>
+<style scoped>
+.nuxt-link-exact-active {
+  @apply text-indigo-600 hover:text-indigo-500;
+}
+</style>
