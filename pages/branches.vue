@@ -1,5 +1,6 @@
 <template>
   <Page title="Branches of Government">
+        <img src="https://api.ndla.no/image-api/raw/brancesofelection.png">
     <p>
       Massachusetts has three branches of government that will make your stay
       here amazing. The first branch is the Executive branch. It is in charge of

@@ -1,5 +1,6 @@
 <template>
   <Page title="Federalism">
+    <img src="https://www.civiceducationva.org/images/fedvenn_corrected.jpg">
     <p>
       Federalism is a system of government that allows a territory to be
       controlled by different levels of government. In the US, there are three
