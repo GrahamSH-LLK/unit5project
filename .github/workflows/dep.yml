@@ -3,7 +3,7 @@ name: Deploy Site 👷
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   ci:
@@ -43,3 +43,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           cname: ma.grahamsh.com
+          
