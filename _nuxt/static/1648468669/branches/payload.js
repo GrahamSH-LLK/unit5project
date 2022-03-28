@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/branches", {data:[{}],fetch:{},mutations:void 0});

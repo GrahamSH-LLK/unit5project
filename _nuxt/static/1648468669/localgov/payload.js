@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/localgov", {data:[{}],fetch:{},mutations:void 0});
